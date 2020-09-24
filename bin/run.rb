@@ -5,4 +5,4 @@ Octokit
 Pry
 AwesomePrint
 
-
+require 'mail'
